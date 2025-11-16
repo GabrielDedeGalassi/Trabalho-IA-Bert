@@ -122,3 +122,9 @@ Classes usadas no modelo:
 * Obs: Foi alterado a coluna "fake news" para "fake_news".
 
 ---
+
+## ▶️ Apresentação
+
+* Link para apresentação: https://youtu.be/yod_Pr_E_dA?si=NB3r8gJIhTlvPL45
+
+---
